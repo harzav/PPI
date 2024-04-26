@@ -4,8 +4,7 @@ A tool for feature calculation, PPI interaction prediction and docking score pre
 
 <h2> Tutorial </h2>
 
-<p>A detailed description on how to run the proposed method for the PPI predictor and the affinity prediction can be found on the 'Tutorial' folder.
-The datasets used for the generation of the results are contained in the 'Datasets' folder</p>
+<p>A detailed description on how to run the proposed method for the PPI predictor and the affinity prediction can be found on the 'Tutorial' folder. The datasets used for the feature calculation are contained in the 'Datasets' folder. Examples of generated datasets and datasets used for commands are found in 'example_datasets' folder.</p>
 
 <h2>Flowchart</h2>
 
